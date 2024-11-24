@@ -5,7 +5,7 @@ window.addEventListener("scroll", function(){
 
 });
 
-const menuBTN = document.getElementById('menu-btn');
+const menuBTN = document.getElementById('#menu-btn');
 const navLIST = document.querySelector('.navlist');
 
 menuBTN=addEventListener('click', () => {
